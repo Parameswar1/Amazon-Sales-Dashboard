@@ -2,6 +2,8 @@
 
 PROBLEM STATEMENT - Analyze and visualize key aspects of Amazon's sales data including sales performance by product category, customer segment, region, and sales channel. Use data analysis and visualization to identify trends, patterns, and insights which can be used to optimize sales strategies and improve profitability.
 
+![Amazon Sales Dashboard](https://github.com/Parameswar1/Amazon-Sales-Dashboard/assets/113311265/d22ca732-e96e-4aa4-8ecc-a63aefc110d4)
+
 Insights -
 
 Standard class is favourite among customers.
